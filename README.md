@@ -1,4 +1,4 @@
-- Hello, I’m James Douglas Craig, but I go by jimmy.  
+- Hello, I’m James Craig 
 - I’m interested in data analysis and visualization using pandas, seaborn, and matplotlib.  I also enjoy engineering databases using MySQL.  
 - I’m currently learning Tableau.
 - I’m looking to collaborate on methods to improve my predictive model parameters.
